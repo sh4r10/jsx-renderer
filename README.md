@@ -16,7 +16,7 @@ The output from this function is passed to the `render` function which then crea
 
 ![A look at the renderer](assets/jsx-render.png)
 
-The left half of the page is the `#root`contianer where the output from the render function is appened. The right half is the `#tree`container, this container logs out the output from the `hyper` function as JSON to provide a clearer picture of what is happening behind the scenes. 
+The left half of the page is the `#root`container where the output from the render function is appened. The right half is the `#tree`container, this container logs out the output from the `hyper` function as JSON to provide a clearer picture of what is happening behind the scenes. 
 
 ## Contribution
 
