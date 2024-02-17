@@ -18,6 +18,14 @@ The output from this function is passed to the `render` function which then crea
 
 The left half of the page is the `#root`container where the output from the render function is appened. The right half is the `#tree`container, this container logs out the output from the `hyper` function as JSON to provide a clearer picture of what is happening behind the scenes. 
 
+
+## Running instructions
+
+The project requires that node.js and npm are installed.
+1. Clone the project and navigate to the root directory
+2. Run `npm install`, to install the dependencies
+3. Finally you can start a dev server with `npm run dev`
+
 ## Contribution
 
 While this is just a project for eductional purposes, feel free to contribute to the project with changes that progress the project and aid in the understanding of JSX. 
